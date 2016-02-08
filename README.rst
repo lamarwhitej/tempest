@@ -1,6 +1,6 @@
 .. _tempest-configuration: Tempest - The OpenStack Integration Test Suite
 
-`source <parrots.txt\_>`__.
+`source <../setup.py\_>`__.
 
 Tempest - The OpenStack Integration Test Suite
 ==============================================
