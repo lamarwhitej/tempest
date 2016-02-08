@@ -1,6 +1,6 @@
 .. _tempest-configuration: Tempest - The OpenStack Integration Test Suite
 
-`source <../setup.py\_>`__.
+`source <../setup.py>`__.
 
 Tempest - The OpenStack Integration Test Suite
 ==============================================
