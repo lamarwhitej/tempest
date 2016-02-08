@@ -1,4 +1,6 @@
-.. _tempest-configuration:
+.. _tempest-configuration: tempest-configuration
+
+.. _tempest-configuration: Tempest Configuration Guide
 
 Tempest Configuration Guide
 ===========================
