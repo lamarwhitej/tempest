@@ -98,7 +98,7 @@ Configuration
 -------------
 
 Detailed configuration of Tempest is beyond the scope of this
-document see :ref:`tempest-configuration` for more details on configuring
+document see `Tempest Configuration Guide`_ :ref:`tempest-configuration` for more details on configuring
 Tempest. The etc/tempest.conf.sample attempts to be a self-documenting version
 of the configuration.
 
