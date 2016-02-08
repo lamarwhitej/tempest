@@ -1,4 +1,3 @@
-.. _tempest-configuration: Tempest - The OpenStack Integration Test Suite
 
 `source <doc/source/configuration.rst/>`__.
 
