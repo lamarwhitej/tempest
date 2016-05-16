@@ -129,8 +129,9 @@ overwritten by subclasses (enforced via hacking rule T105).
 
 Set-up is split in a series of steps (setup stages), which can be overwritten
 by test classes. Set-up stages are:
+
 * `skip_checks`
-* `setup_credentials`
+- `setup_credentials`
 * `setup_clients`
 * `resource_setup`
 
